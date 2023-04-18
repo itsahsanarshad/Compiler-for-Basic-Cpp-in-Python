@@ -1,0 +1,46 @@
+#Hello World program
+struct{
+integer f;
+};
+integer main(){
+integer a;
+integer z=5;
+fract d=5.5;
+alpha sb='a';
+bin y = true;
+y=false;
+z++;
+for()
+{
+}
+while(a<5)
+{
+for()
+{
+integer a;
+}
+}
+do
+{
+integer a;
+
+}
+while(int<7);
+}
+if(a<8)
+{
+}
+if(a<8)
+{
+fract d;
+}
+else
+{
+fract d;
+}
+for()
+{
+integer a;
+}
+}
+"""Ahsan is good boy"""
